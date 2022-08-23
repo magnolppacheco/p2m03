@@ -1,4 +1,4 @@
-# Back-end CRUD memória (Read All e Read By Id)
+# Back-end CRUD memória
 [GET] Leitura de todas os personagens;
 
 [GET] Leitura de personagens individuais (por ID);
